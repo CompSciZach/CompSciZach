@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on [Menu Mate - Text detection & extraction model](https://github.com/CompSciZach/MenuMate)  
   
-- 🌱 I’m currently learning -> ASP .NET | React.js
+- 🌱 I’m currently learning these frameworks: ASP.NET, React.js (and some Three.js)
   
 - 👨‍💻 Portfolio website coming soon :) 
   
