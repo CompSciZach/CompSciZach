@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning these frameworks: ASP.NET, React.js (and some Three.js)
   
-- 👨‍💻 Portfolio website coming soon :) 
+- 👨‍💻 Portfolio website here: https://compscizach.github.io/portfolio-model/
   
 - 📫 How to reach me: zachdube31@gmail.com
 
